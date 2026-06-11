@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Honda Elevate",
+    "price": 1400000,
+    "fuel": "Petrol",
+    "safety": 5,
+    "mileage": 16,
+    "performance": 7
+  },
+  {
+    "id": 2,
+    "name": "Hyundai Creta",
+    "price": 1500000,
+    "fuel": "Petrol",
+    "safety": 4,
+    "mileage": 18,
+    "performance": 8
+  },
+  {
+    "id": 3,
+    "name": "Kia Seltos",
+    "price": 1550000,
+    "fuel": "Petrol",
+    "safety": 4,
+    "mileage": 17,
+    "performance": 9
+  },
+  {
+    "id": 4,
+    "name": "Grand Vitara",
+    "price": 1450000,
+    "fuel": "Hybrid",
+    "safety": 4,
+    "mileage": 26,
+    "performance": 6
+  }
+]
